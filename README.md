@@ -43,7 +43,7 @@ I bought mine on Aliexpress
 Soldering schematics are coming soon™, but it's not too hard. You connect 3.3V to the + and the groun to - of the breakout board, then the clock to D3 and data to D2.
 
 
-This is my version that I soldered on a protobard:
+This is my version that I soldered on a protoboard:
 
 ![Protoboard](https://raw.githubusercontent.com/whitebird/Ardwiino/master/images/prototype.jpg)
 
