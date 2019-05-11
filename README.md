@@ -37,7 +37,7 @@ I bought mine on Aliexpress
 
   3.3V Parts list:
 
-- [Arduino Leonardo Micro 5V](https://www.aliexpress.com/w/wholesale-leonardo-3.3v.html?spm=2114.search0104.0.0.6d557b37GoixQ1&initiative_id=AS_20180714113208&site=glo&groupsort=1&SortType=total_tranpro_desc&g=y&SearchText=leonardo+3.3v)
+- [Arduino Leonardo Micro 3.3V](https://www.aliexpress.com/w/wholesale-leonardo-3.3v.html?spm=2114.search0104.0.0.6d557b37GoixQ1&initiative_id=AS_20180714113208&site=glo&groupsort=1&SortType=total_tranpro_desc&g=y&SearchText=leonardo+3.3v)
 - [WiiChuck - Wii nunchuck breakout board](https://www.aliexpress.com/w/wholesale-wiichuck.html?spm=2114.search0104.0.0.1c681659ojTNn4&initiative_id=AS_20180714113201&site=glo&SortType=total_tranpro_desc&g=y&SearchText=wiichuck&CatId=400103)
 
 Soldering schematics are coming soon™, but it's not too hard. You connect 3.3V to the + and the groun to - of the breakout board, then the clock to D3 and data to D2.
